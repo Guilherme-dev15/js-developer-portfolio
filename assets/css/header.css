@@ -97,3 +97,10 @@
         grid-area: information;
     }
 }
+
+
+@media only screen and (max-width: 400px){
+    .information p {
+        font-size: 1.1rem;
+    }
+}
