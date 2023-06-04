@@ -80,7 +80,7 @@
     {
       "name": "Projeto - Formulário - Cadastro de Música",
       "description": "Este projeto é um formulário para cadastrar informações de músicas, onde o usuário deve preencher informações básicas do álbum, dados de acesso e agendar pré-lançamento.\nO formulário conta com validações de campos, como tamanho mínimo de caracteres, formato de e-mail válido e somente números para campo de telefone, e também um script para ocultar um campo quando uma caixa de seleção é marcada.",
-      "url": "https://guilherme-dev15.github.io/Projetos-HTML-CSS-JAVASCRIPT/Projeto%2005%20-%20Grid%20e%20Variaveis/",
+      "url": "https://guilherme-dev15.github.io/Projetos-HTML-CSS-JAVASCRIPT/Projeto%2003%20-%20Forulário%20HTML-CSS/",
       "github": true
     },
     {
