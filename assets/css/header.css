@@ -35,13 +35,38 @@
     text-align: center;
     font-family: 'Neue Machina';
 }
+.header .content-btn-download{
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+    padding-left: 1rem;
+}
 
+.content-btn-download  .btn-download{
+    background: #55569E;
+    color: #EEEEEE;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all .3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    font-weight: 800;
+    
+}
+.content-btn-download  .btn-download:hover{
+    transform: scale(1.1);
+}
 .information {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
 }
+
 
 .information p {
     display: flex;
@@ -82,7 +107,10 @@
 @media only screen and (min-width: 768px){
     .header{
         display: grid;
-        grid-template-areas: "photo title" "photo information";
+        grid-template-areas: 
+        "photo title"
+        "photo btn-download"
+        "photo information";
     }
     .header .photo{
         grid-area: photo;
