@@ -44,7 +44,7 @@
     {
       "name": "Projeto - Trilha JS Developer-Portifólio",
       "description": "Como parte da conclusão do curso Formação JavaScript Developer promovido pela DIO, desenvolvi o projeto do Portfólio. Esse projeto consiste em criar uma aplicação web que consome um arquivo JSON com informações relevantes sobre meu currículo e projetos desenvolvidos. A aplicação foi desenvolvida para exibir uma listagem dinâmica dos dados, proporcionando uma experiência interativa aos usuários. Utilizei todo o conhecimento adquirido durante o bootcamp para adicionar novas funcionalidades ao projeto. Uma das principais funcionalidades implementadas foi a inclusão de um botão de download, que permite aos visitantes baixarem meu currículo completo em formato PDF. Além disso, realizei estilizações, transições e adicionei dados complementares para tornar o portfólio mais atrativo visualmente. Ao concluir esse projeto, pude aplicar de forma prática os conceitos aprendidos, como manipulação de dados JSON, integração de funcionalidades avançadas e aprimoramento de aspectos visuais. Essa experiência me proporcionou um maior domínio do JavaScript e sua aplicação na criação de aplicações web interativas e funcionais. O projeto do Portfólio representa um marco importante na minha jornada como desenvolvedor JavaScript e destaca minhas habilidades adquiridas ao longo do bootcamp.",
-      "url": "https://guilherme-dev15.github.io/trilha-js-developer-pokedex",
+      "url": "https://guilherme-dev15.github.io/js-developer-portfolio/",
       "github": true
     },
     {
