@@ -42,6 +42,12 @@
   ],
   "portfolio": [
     {
+      "name": "Projeto - Trilha JS Developer-Portifólio",
+      "description": "Como parte da conclusão do curso Formação JavaScript Developer promovido pela DIO, desenvolvi o projeto do Portfólio. Esse projeto consiste em criar uma aplicação web que consome um arquivo JSON com informações relevantes sobre meu currículo e projetos desenvolvidos. A aplicação foi desenvolvida para exibir uma listagem dinâmica dos dados, proporcionando uma experiência interativa aos usuários. Utilizei todo o conhecimento adquirido durante o bootcamp para adicionar novas funcionalidades ao projeto. Uma das principais funcionalidades implementadas foi a inclusão de um botão de download, que permite aos visitantes baixarem meu currículo completo em formato PDF. Além disso, realizei estilizações, transições e adicionei dados complementares para tornar o portfólio mais atrativo visualmente. Ao concluir esse projeto, pude aplicar de forma prática os conceitos aprendidos, como manipulação de dados JSON, integração de funcionalidades avançadas e aprimoramento de aspectos visuais. Essa experiência me proporcionou um maior domínio do JavaScript e sua aplicação na criação de aplicações web interativas e funcionais. O projeto do Portfólio representa um marco importante na minha jornada como desenvolvedor JavaScript e destaca minhas habilidades adquiridas ao longo do bootcamp.",
+      "url": "https://guilherme-dev15.github.io/trilha-js-developer-pokedex",
+      "github": true
+    },
+    {
       "name": "Projeto - Trilha JS Developer-Pokedex",
       "description": "Este projeto foi desenvolvido como parte do curso Formação JavaScript Developer promovido pela DIO.\nO projeto da Pokedex consiste em criar uma aplicação web que consome uma API de Pokemons para exibir uma listagem com suas principais informações.\nA aplicação permite que os usuários carreguem mais Pokemons para serem exibidos na listagem.\nComo desafio, utilizei todo o conhecimento adquirido para adicionar novas funcionalidades, como a inclusão de um botão para abrir um modal e visualizar detalhes específicos de cada Pokemon, incluindo suas estatísticas básicas.",
       "url": "https://guilherme-dev15.github.io/trilha-js-developer-pokedex",
