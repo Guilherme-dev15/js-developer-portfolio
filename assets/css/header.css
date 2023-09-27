@@ -99,8 +99,8 @@
     background-image: url('../img/icons/email.svg');
 }
 
-.information .phone::before {
-    background-image: url('../img/icons/phone.svg');
+.information .linkedin::before {
+    background-image: url('../img/icons/linkedin.svg');
 }
 
 
