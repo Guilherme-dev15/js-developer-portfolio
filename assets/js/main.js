@@ -73,4 +73,3 @@ function updateProfessionalExperience(profileData) {
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
 })()
-
