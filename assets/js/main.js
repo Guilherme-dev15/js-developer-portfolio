@@ -18,8 +18,7 @@ function updateProfileInfo(profileData) {
 
     const email = document.getElementById('profile-email')
     email.innerText = profileData.email
-    email.href = `mailto:${profileData.email}
-    `
+    email.href = `mailto:${profileData.email}`
     
 }
 function updateSoftSkills(profileData) {
