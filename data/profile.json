@@ -35,7 +35,6 @@
   "name": "HTML",
   "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
 }
-
     ],
     "softSkills": [
       "Lógica de programação e resolução de problemas.",
@@ -140,5 +139,6 @@
       "description": "Prestei suporte aos usuários em sistemas, aplicativos, redes e zelo pelos recursos de hardware e software.<br>Realizei backup, formatação de equipamentos, instalação de sistemas operacionais e de softwares e montagem de microcomputadores e redes."
     }
   ]
+}
 }
 
