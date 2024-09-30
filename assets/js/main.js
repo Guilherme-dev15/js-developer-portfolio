@@ -29,12 +29,7 @@ function updateSoftSkills(profileData) {
 function updateHardSkills(profileData) {
     const hardSkills = document.getElementById('profile-skills-hardSkills'); 
  
-    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `
-        <li>
-            <img src="${skill.logo}" alt="${skill.name}" title="${skill.name}" style="width: 50px; height: 50px;">
-            ${skill.name}  <!-- Adiciona o nome da habilidade para clareza -->
-        </li>
-    `).join(''); 
+    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
 }
 function updateLanguages(profileData) {
     const languages = document.getElementById('profile.languages')
