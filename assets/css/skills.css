@@ -34,6 +34,11 @@
     padding: 0.5rem;
 }
 
+.skills .personal ul li:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
 @media only screen and (min-width: 768px) {
     .skills {
         display: grid;
