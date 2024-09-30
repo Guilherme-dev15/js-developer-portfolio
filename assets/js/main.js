@@ -27,15 +27,12 @@ function updateSoftSkills(profileData) {
 }
 
 function updateHardSkills(profileData) {
-    const hardSkillsElement = document.getElementById('profile-skills-hardSkills');
-    if (!hardSkillsElement) {
-        console.error("Element with id 'profile-skills-hardSkills' not found");
-        return;
-    }
-    hardSkillsElement.innerHTML = profileData.skills.hardSkills.map(skill => `
+    const hardSkills = document.getElementById('profile-skills-hardSkills'); 
+ 
+    hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `
         <li>
             <img src="${skill.logo}" alt="${skill.name}" title="${skill.name}">
-            ${skill.name} </li>`).join('');
+            ${skill.name}  </li>)`.join(''); 
 }
 
 function updateLanguages(profileData) {
