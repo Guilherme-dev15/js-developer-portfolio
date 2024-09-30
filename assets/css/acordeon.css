@@ -25,22 +25,17 @@
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    font-size: 1.5rem;
     font-weight: 700;
     background-color: transparent;
     color: #FFFFFF;
     border: none;
+    cursor: pointer; /* Ajuste do cursor */
 }
 
 .acordeon .trigger h2 {
     margin: 0;
     font-size: 1.5rem;
     text-align: start;
-}
-
-
-.acordeon .trigger:hover {
-    cursor: pointer;
 }
 
 .acordeon .trigger::after {
@@ -56,14 +51,13 @@
 
 .acordeon .content {
     overflow: hidden;
-    height: 0;
+    max-height: 0; /* Para animação suave */
     opacity: 0;
-    transition: opacity .25s ease-in-out;
+    transition: max-height 0.25s ease-in-out, opacity 0.25s ease-in-out;
 }
 
 .acordeon.open .content {
-    display: block;
+    max-height: 200px; /* Defina um valor que se ajusta ao conteúdo */
     padding: 0 1rem 1rem 2rem;
-    height: auto;
     opacity: 1;
 }

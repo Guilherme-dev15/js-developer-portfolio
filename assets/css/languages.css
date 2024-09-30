@@ -1,4 +1,4 @@
-.languages{
+.languages {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -8,7 +8,7 @@
     list-style: none;
 }
 
-.languages li{
+.languages li {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -17,7 +17,7 @@
     padding-right: 1rem;
 }
 
-.languages li::before{
+.languages li::before {
     content: '';
     display: inline-block;
     background-repeat: no-repeat;

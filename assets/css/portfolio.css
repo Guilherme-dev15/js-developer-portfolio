@@ -17,7 +17,7 @@
     margin: 1rem 0;
 }
 
-.portfolio li p{
+.portfolio li p {
     margin-bottom: 1.2rem;
     padding-right: 0.5rem;
 }
@@ -29,7 +29,7 @@
     font-size: 1.25rem;
     font-weight: 700;
     margin: 0;
-    margin-bottom: .5rem;
+    margin-bottom: 0.5rem;
 }
 
 .portfolio li h3.github::before {
@@ -41,7 +41,5 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url('../img/icons/github.svg');
-    min-width: 1rem;
-    margin-right: .5rem;
+    margin-right: 0.5rem;
 }
-

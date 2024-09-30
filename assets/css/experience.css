@@ -6,9 +6,19 @@
     list-style: none;
 }
 
-.experience li h3,
+.experience li {
+    margin-bottom: 2rem;
+}
+
+.experience li h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
 .experience li p {
-    margin-bottom: 1rem;
+    margin: 0;
+    line-height: 1.5;
 }
 
 .experience li .period {
@@ -25,5 +35,5 @@
     background-repeat: no-repeat;
     background-size: contain;
     background-image: url('../img/icons/calendar.svg');
-    margin-right: .5rem;
+    margin-right: 0.5rem;
 }
