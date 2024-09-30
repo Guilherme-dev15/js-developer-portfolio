@@ -6,36 +6,38 @@
     "linkedin": "LinkedIn",
     "email": "guilherme.macedo1598@gmail.com",
     "skills": {
-        "hardSkills": [
-            {
-                "name": "NodeJs",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-            },
-            {
-                "name": "React",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-            },
-            {
-                "name": "Vite",
-                "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"
-            },
-            {
-                "name": "JavaScript",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
-            },
-            {
-                "name": "Jest",
-                "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
-            },
-            {
-                "name": "CSS",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-            },
-            {
-                "name": "HTML",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
-            }
-        ],
+{
+  "hardSkills": [
+    {
+      "name": "NodeJs",
+      "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+    },
+    {
+      "name": "React",
+      "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+    },
+    {
+      "name": "Vite",
+      "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"
+    },
+    {
+      "name": "JavaScript",
+      "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+    },
+    {
+      "name": "Jest",
+      "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+    },
+    {
+      "name": "CSS",
+      "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+    },
+    {
+      "name": "HTML",
+      "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+    }
+  ],
+
         "softSkills": [
             "Lógica de programação e resolução de problemas.",
             "Liderança",
