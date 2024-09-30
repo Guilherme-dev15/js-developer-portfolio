@@ -7,26 +7,35 @@
   "email": "guilherme.macedo1598@gmail.com",
   "skills": {
     "hardSkills": [
-      {
-        "name": "HTML",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
-      },
-      {
-        "name": "CSS",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
-      },
-      {
-        "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
-      },
-      {
-        "name": "NodeJs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      }
+{
+  "name": "NodeJs",
+  "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+},
+{
+  "name": "React",
+  "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+},
+{
+  "name": "Vite",
+  "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg"
+},
+{
+  "name": "JavaScript",
+  "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
+},
+{
+  "name": "Jest",
+  "logo": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg"
+},
+{
+  "name": "CSS",
+  "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
+},
+{
+  "name": "HTML",
+  "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
+}
+
     ],
     "softSkills": [
       "Lógica de programação e resolução de problemas.",
@@ -108,21 +117,28 @@
       "github": true
     }
   ],
+{
   "professionalExperience": [
     {
-      "name": "Analista de Suporte Computacional – BRINT COMÉRCIO E INDÚSTRIA DE EQUIPAMENTOS INDUSTRIAIS LTDA",
+      "name": "Assistente de Infraestrutura - PASHAL LOCADORA DE EQUIPAMENTOS LTDA",
+      "period": "Atual",
+      "description": "Forneço suporte técnico presencial e remoto, utilizando AnyDesk e TeamViewer para otimizar o desempenho dos usuários.<br>Realizo configurações ágeis em sistemas Windows e integro impressoras, garantindo eficiência no uso dos equipamentos.<br>Especializo-me na manutenção de computadores, reduzindo custos de substituição através de intervenções preventivas e corretivas.<br>Administro o Active Directory e o ambiente Office, garantindo a segurança e a eficiência dos sistemas.<br>Monitorei e mantive a infraestrutura de rede, assegurando a continuidade dos serviços."
+    },
+    {
+      "name": "Analista de Suporte Computacional - BRINT COMÉRCIO E INDÚSTRIA DE EQUIPAMENTOS INDUSTRIAIS LTDA",
       "period": "12/2021 - 11/2022",
-      "description": "Forneci suporte técnico a usuários para problemas de hardware e software, incluindo configuração e instalação de softwares<br> Realizei manutenção e reparo de equipamentos de TI, incluindo desktops, laptops e impressoras<br> Configurei e gerenciei o Active Directory, incluindo a criação de usuários e atribuição de direitos de acesso<br> Monitorei e gerenciei a rede de computadores, solucionando problemas de conectividade e implementando atualizações de segurança<br> Criei e executei consultas em um banco de dados Oracle<br> Criei e gerenciei views em um banco de dados para simplificar o acesso aos dados"
+      "description": "Forneci suporte técnico a usuários para problemas de hardware e software, incluindo configuração e instalação de softwares.<br>Realizei manutenção e reparo de equipamentos de TI, incluindo desktops, laptops e impressoras.<br>Configurei e gerenciei o Active Directory, incluindo a criação de usuários e atribuição de direitos de acesso.<br>Monitorei e gerenciei a rede de computadores, solucionando problemas de conectividade e implementando atualizações de segurança.<br>Criei e executei consultas em um banco de dados Oracle.<br>Criei e gerenciei views em um banco de dados para simplificar o acesso aos dados."
     },
     {
       "name": "Auxiliar Administrativo - 14º CARTÓRIO DA LAPA REGISTRO CIVIL",
       "period": "09/2019 - 12/2021",
-      "description": "Auxiliei nas atividades do cartório, incluindo digitalização de documentos e atendimento ao cliente.<br>Digitei aberturas de firmas, reconhecimento de firmas, autenticações, cópias de documentação e preenchimento de formulários.<br>Prestei suporte interno, configurando impressoras, criando usuários, instalando e configurando certificados digitais.<br>"
+      "description": "Auxiliei nas atividades do cartório, incluindo digitalização de documentos e atendimento ao cliente.<br>Digitei aberturas de firmas, reconhecimento de firmas, autenticações, cópias de documentação e preenchimento de formulários.<br>Prestei suporte interno, configurando impressoras, criando usuários, instalando e configurando certificados digitais."
     },
     {
-      "name": "Estágiario - São Paulo Transportes S/A",
+      "name": "Estagiário - SÃO PAULO TRANSPORTES S/A",
       "period": "06/2017 - 12/2018",
       "description": "Prestei suporte aos usuários em sistemas, aplicativos, redes e zelo pelos recursos de hardware e software.<br>Realizei backup, formatação de equipamentos, instalação de sistemas operacionais e de softwares e montagem de microcomputadores e redes."
     }
   ]
 }
+
