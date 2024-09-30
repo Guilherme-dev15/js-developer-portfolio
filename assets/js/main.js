@@ -32,7 +32,7 @@ function updateHardSkills(profileData) {
     hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `
         <li>
             <img src="${skill.logo}" alt="${skill.name}" title="${skill.name}">
-            ${skill.name}  </li>)`.join(''); 
+            ${skill.name}  </li>)`.join('')
 }
 
 function updateLanguages(profileData) {
