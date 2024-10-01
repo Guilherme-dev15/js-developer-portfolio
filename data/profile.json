@@ -54,7 +54,6 @@
             "name": "Projeto - GitHub API Explorer",
             "description": "Desenvolvido como desafio do curso DEVQUEST, o objetivo é buscar e exibir informações detalhadas de usuários do GitHub, incluindo perfil, repositórios e eventos recentes. A aplicação consome a API do GitHub para apresentar os dados de forma clara e organizada.",
             "url": "https://guilherme-dev15.github.io/desafio-git-api-fetch/"
-",
             "github": true,
             "features": [
               "Exibir informações do perfil (imagem, nome, login, bio, seguidores, seguidos)",
