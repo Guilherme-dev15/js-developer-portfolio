@@ -50,6 +50,33 @@
         "Inglês (Básico)"
     ],
     "portfolio": [
+{
+      "name": "Projeto - Review de Produto",
+      "description": "Desenvolvido como parte de um curso de React, este projeto tem como objetivo criar uma interface interativa para exibir e adicionar avaliações de produtos da loja de equipamentos de áudio Escutante. A aplicação consome a API do Codante para gerenciar os dados das avaliações.",
+      "url": "https://mp-review-de-produto-steel.vercel.app/",
+      "github": true,
+      "features": [
+        "Exibir avaliações de usuários com nome, data, estrelas e comentários",
+        "Formulário para adicionar novas avaliações com campos para nome, comentário e seleção de estrelas",
+        "Exibir mensagem condicional quando não há avaliações disponíveis"
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React",
+        "Vite",
+        "Codante API"
+      ],
+      "learnings": [
+        "Consumo de API com Fetch",
+        "Manipulação de estado com useState",
+        "Gerenciamento de eventos e formulários em React",
+        "Renderização condicional e listas dinâmicas",
+        "Desenvolvimento de uma interface responsiva"
+      ]
+    },
+
         {
             "name": "Projeto - GitHub API Explorer",
             "description": "Desenvolvido como desafio do curso DEVQUEST, o objetivo é buscar e exibir informações detalhadas de usuários do GitHub, incluindo perfil, repositórios e eventos recentes. A aplicação consome a API do GitHub para apresentar os dados de forma clara e organizada.",
