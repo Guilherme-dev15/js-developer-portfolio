@@ -50,6 +50,32 @@
         "Inglês (Básico)"
     ],
     "portfolio": [
+        {
+  "name": "Pokémon Pokedex",
+  "description": "A Pokémon Pokedex é uma aplicação React que permite consultar informações detalhadas sobre os Pokémon, incluindo tipos e características, utilizando a Pokémon API.",
+  "url": "https://guilherme-dev15.github.io/project-pokedex-react/",
+  "github": true,
+  "features": [
+    "Seleção de Tipos de Pokémon: O usuário pode filtrar Pokémon por tipo.",
+    "Exibição de Detalhes: Ao clicar em um Pokémon, detalhes como nome, habilidades, altura, peso e uma imagem são exibidos.",
+    "Modo Escuro/Claro: O usuário pode alternar entre os modos de tema claro e escuro.",
+    "Carregamento Dinâmico: Os dados dos Pokémon são carregados dinamicamente através de requisições à API.",
+    "Busca por Nome: O usuário pode filtrar os Pokémon digitando o nome na barra de pesquisa, e a lista de Pokémon será atualizada conforme o usuário digita."
+  ],
+  "technologies": [
+    "React",
+    "Vite",
+    "Styled Components",
+    "Pokémon API"
+  ],
+  "learnings": [
+    "Uso do React para construção de interfaces dinâmicas",
+    "Integração com APIs externas para carregamento de dados",
+    "Estilização de componentes com Styled Components",
+    "Gerenciamento de estado em React",
+    "Implementação de funcionalidades de pesquisa e filtros em tempo real"
+  ]
+},
 {
       "name": "Projeto - Review de Produto",
       "description": "Desenvolvido como parte de um curso de React, este projeto tem como objetivo criar uma interface interativa para exibir e adicionar avaliações de produtos da loja de equipamentos de áudio Escutante. A aplicação consome a API do Codante para gerenciar os dados das avaliações.",
